@@ -1,0 +1,12 @@
+{
+  "name": "DeepScanner",
+  "displayName": "DeepScanner",
+  "expo": {
+    "name": "DeepScanner",
+    "slug": "DeepScanner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
